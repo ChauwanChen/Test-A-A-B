@@ -1,4 +1,4 @@
-# teste A/A/B - Startup de produtos alimenticios
+# teste A/A/B - Startup de produtos alimentícios 
 
 Verificar a diferença estatística dos grupos sobre a alteração de toda a fonte do aplicativo.
 
