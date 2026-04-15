@@ -10,3 +10,12 @@ Verificar a semelhança entre os dois grupos A de controle e analisar a precisã
 2. Estudo e verificação dos dados.
 3. Estudo do funil de eventos.
 4. Estudo dos resultados do experimento.
+
+
+### Tecnologias
+- Python
+- Pandas
+- Matplotlib
+- Statsmodels
+- Scipy
+- Math
